@@ -8,6 +8,7 @@
   "scripts": {
     "package:dev": "pnpm --filter desquidex dev",
     "playground:dev": "pnpm --filter playground dev",
+    "docs:dev": "pnpm --filter docs dev",
     "changeset": "changeset",
     "release": "node scripts/release.mjs"
   },
